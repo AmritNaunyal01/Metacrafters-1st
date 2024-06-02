@@ -44,6 +44,6 @@ console.log(NFTs.length);
 
 // call your functions below this line
 
-mintNFT("Jags", "Red", "Jacket", "Chain");
+mintNFT("Amrit", "Blue", "Tshirt", "Chain");
 listNFTs();
 getTotalSupply();
